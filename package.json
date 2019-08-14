@@ -1,24 +1,22 @@
 {
-    "title": "SB Admin",
-    "name": "startbootstrap-sb-admin",
-    "version": "5.1.1",
+    "title": "Resume",
+    "name": "startbootstrap-resume",
+    "version": "5.0.7",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "A one page app landing page HTML theme for Bootstrap.",
+    "description": "Resume is a simple, yet elegant resume and CV theme for Bootstrap 4.",
     "keywords": [
         "css",
         "sass",
         "html",
         "responsive",
         "theme",
-        "template",
-        "admin",
-        "app"
+        "template"
     ],
-    "homepage": "https://startbootstrap.com/template-overviews/sb-admin",
+    "homepage": "https://startbootstrap.com/template-overviews/resume",
     "bugs": {
-        "url": "https://github.com/BlackrockDigital/startbootstrap-sb-admin/issues",
+        "url": "https://github.com/BlackrockDigital/startbootstrap-resume/issues",
         "email": "feedback@startbootstrap.com"
     },
     "license": "MIT",
@@ -28,13 +26,11 @@
     ],
     "repository": {
         "type": "git",
-        "url": "https://github.com/BlackrockDigital/startbootstrap-sb-admin.git"
+        "url": "https://github.com/BlackrockDigital/startbootstrap-resume.git"
     },
     "dependencies": {
         "@fortawesome/fontawesome-free": "5.9.0",
         "bootstrap": "4.3.1",
-        "chart.js": "2.8.0",
-        "datatables.net-bs4": "1.10.19",
         "jquery": "3.4.1",
         "jquery.easing": "^1.4.1"
     },
